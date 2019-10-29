@@ -1,7 +1,10 @@
-hua-fan-wei-jian.
-From complex to simple,
-From hard to easy,
-Let difficult transfrom to Straightforward.
+#hua-fan-wei-jian.
+
+#From complex to simple,
+
+#From hard to easy,
+
+#Let difficult transfrom to Straightforward.
 
 ///
 
@@ -12,7 +15,7 @@ Let difficult transfrom to Straightforward.
 
 以下是截取自我的对话记录(未记录网友的)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 从一则有关计算机编程教育的新闻聊起;
 
 https://m.cnbeta.com/wap/view/903621.htm 
